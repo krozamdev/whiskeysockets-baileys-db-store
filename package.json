@@ -37,5 +37,6 @@
     "dist/",
     "prisma/schema.prisma",
     ".env.example"
-  ]
+  ],
+  "private": true
 }
